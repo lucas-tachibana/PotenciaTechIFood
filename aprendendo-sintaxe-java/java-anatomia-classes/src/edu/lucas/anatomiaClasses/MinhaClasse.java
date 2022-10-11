@@ -1,4 +1,4 @@
-import java.sql.Date;
+package edu.lucas.anatomiaClasses;
 
 public class MinhaClasse {
     public static void main(String[] args) {
