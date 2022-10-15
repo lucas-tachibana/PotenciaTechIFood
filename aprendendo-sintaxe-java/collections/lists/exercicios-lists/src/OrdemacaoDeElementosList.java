@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class OrdemacapDeElementosList {
+public class OrdemacaoDeElementosList {
     /*
      * Dadas as seguintes informações sobre meus gatos, crie uma lista e ordene-a
      * exibindo:
